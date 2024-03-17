@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash Screen Demo</string>
+    <string name="logo">Logo</string>
+    <string name="home_activity">Home Activity</string>
+</resources>
